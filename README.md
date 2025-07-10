@@ -31,7 +31,7 @@ An intermediate-level Spring Boot application to help users efficiently **track,
 
 - **Java 11+**, **Spring Boot**
 - **Spring Web**, **Spring Data JPA**, **Spring Security**
-- **H2 / MySQL** (whichever you're using)
+- **MongoDB**
 - **Maven** for build and dependency management
 
 ---
