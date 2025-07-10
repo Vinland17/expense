@@ -40,7 +40,7 @@ An intermediate-level Spring Boot application to help users efficiently **track,
 
 ### Prerequisites
 - Java 11+ installed  
-- Database: H2 (in-memory) or MySQL (update `application.properties` accordingly)  
+- Database: MongoDB
 - Maven
 
 ### Installation & Running
